@@ -1,0 +1,9 @@
+openai-whisper==20231117
+openai==1.3.0
+torch
+torchaudio
+transformers
+numpy
+scipy
+librosa
+ffmpeg-python
