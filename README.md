@@ -597,4 +597,8 @@ For support and questions:
 
 ---
 
+<<<<<<< HEAD
 **Built with ❤️ for modern education**
+=======
+**Built with ❤️ for modern education**
+>>>>>>> 81aab73ea5f6cfceb92e6dac683b4446c4643290
